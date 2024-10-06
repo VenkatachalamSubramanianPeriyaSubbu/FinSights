@@ -23,3 +23,10 @@
 `plotting.py`: Python script of visualization code.<br>
 `projectfns.py`: Python script containing functions used in `Analysis.py`.<br>
 `README.md`: Project documentation.
+
+## Running the Application
+
+To run this project, clone the repository and execute the following command:
+
+```bash
+streamlit run Analysis.py
