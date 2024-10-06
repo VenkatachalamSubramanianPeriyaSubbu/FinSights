@@ -15,7 +15,8 @@ from transformers import AutoModel, AutoTokenizer, AutoModelForCausalLM
 from huggingface_hub import login
 from projectfns import generate_llama_embedding, LlamaEmbeddings, extract_text, add_excel_to_faiss, final_df, create_prompt, llama_answer, get_docs
 
-login(token="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")
+token_key = ! cat ~/.keys/huggingface
+login(token = token_key)
 
 embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5")
 
