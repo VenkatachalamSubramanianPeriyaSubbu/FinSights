@@ -8,7 +8,7 @@
 ## Features
  1. Data Manipulation with Pandas: Efficient data cleaning, transformation, and analysis.
  2. Natural Language Processing (NLP) with Hugging Face: Utilizes embedding system "BAAI/bge-small-en-v1.5".
- 3. FAISS for Similarity Search: Implements a fast, scalable solution for similarity searches, suitable for recommendation systems and semantic search.
+ 3. FAISS (Facebook AI Similarity Search) for Similarity Search: Implements a fast, scalable solution for similarity searches, suitable for recommendation systems and semantic search.
  4. Ollama and Llama 3.1: Provides cutting-edge language model that enhance the NLP capabilities of the application.
  5. Lang Chain Integration: Orchestrates large language models to facilitate complex conversations, decision-making processes, and chained tasks.
 
