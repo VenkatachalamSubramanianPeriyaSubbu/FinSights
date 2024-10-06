@@ -14,6 +14,7 @@
 
 ## Prerequisites
 - Python 3.8+
+- Ollama and Llama3.1
 - Required Python packages: pandas, transformers, faiss-cpu, langchain, llama
 
 ## Project Structure
